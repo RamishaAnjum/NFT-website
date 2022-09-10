@@ -4,4 +4,4 @@
 
 Live link: https://nft-website-887e8b.webflow.io/
 
-![Frame 12](https://user-images.githubusercontent.com/79252220/177349383-fbe3664e-bcd9-4cf0-b006-728dff604510.png)
+![Frame 12](https://user-images.githubusercontent.com/79252220/189476051-53607b97-d57c-4438-aab2-4a98d1a8ac41.png)
